@@ -4,6 +4,9 @@
 
 This script is designed to organize files and folders in your "Downloads" directory by categorizing them into specific subdirectories based on their file types.
 
+Extension from this medium
+https://blog.mukundmadhav.com/organize-downloads-folder-python-83baf34a05db 
+
 ### Features
 
 - Categorizes files based on their extensions.
